@@ -1,0 +1,10 @@
+# PostgreSQL connection settings
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_NAME=hh_vacancies
+DB_USER=UBUNSQL
+DB_PASSWORD=8462975130
+
+# HH API settings (если нужно)
+HH_API_URL=https://api.hh.ru
+
